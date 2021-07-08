@@ -1,0 +1,12 @@
+{
+  "name": "command-line-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "CLI tic-tac-toe Challenge",
+  "main": "main.js",
+  "dependencies": {
+    "prompt-sync": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
